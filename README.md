@@ -23,7 +23,7 @@ Requirement device rooted
 - 2 Click Module section
 - 3 Click Install button
 - 4 Select Module then install
-
+- 5 reboot your device.
 ```
 
 ## License
