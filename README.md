@@ -17,7 +17,7 @@ The official `IO --SPEED` files can only be obtained from [Github release](https
 ## Installation
 
 ```
-Requirement device rooted
+Requirement device as a rooted
 
 - 1 Open Magisk
 - 2 Click Module section
