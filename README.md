@@ -25,7 +25,10 @@ The official `IO --SPEED` files can only be obtained from [Github release](https
 4 |___ Select Module then install
 5 |___ reboot your device.
 ```
-
+## Terminal 
+```
+su -c IO
+```
 ## License
 
 > IO SPEED is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
