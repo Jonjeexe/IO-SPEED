@@ -14,3 +14,11 @@ The official `IO --SPEED` files can only be obtained from [Github release](https
 
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
 
+
+<p align="center">
+  <a href="https://t.me/IOSPEED"><img src="https://img.shields.io/badge/Telegram-Channel-blue?logo=telegram&style=social"></a>
+  <a href="#"><img src="https://img.shields.io/badge/XDA-Thread-purple?logo=xdadevelopers&style=social"></a>
+  <br/>
+<p align="center">
+  IO SPEED © 2024-2025
+</p>
