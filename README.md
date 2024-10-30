@@ -7,3 +7,10 @@
 
 ### IO SPEED
 Improve performance and Optimization system enhances responsiveness.
+
+## Downloads
+
+The official `IO --SPEED` files can only be obtained from [Github release](https://github.com/Jonjeexe/IO-SPEED/releases) 
+
+[![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
+
