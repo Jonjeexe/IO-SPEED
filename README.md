@@ -14,6 +14,18 @@ The official `IO --SPEED` files can only be obtained from [Github release](https
 
 [![Github](https://img.shields.io/badge/Github-Releases-48C21A.svg?style=flat&logo=github)](https://github.com/Kyliekyler/MAGNETAR/releases)
 
+## Installation
+
+```
+Requirement device rooted
+
+- 1 Open Magisk 
+- 2 Click Module section
+- 3 Click Install button
+- 4 Select Module then install
+
+```
+
 ## License
 
 > IO SPEED is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
