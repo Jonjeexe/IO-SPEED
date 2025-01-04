@@ -5,8 +5,6 @@
 `If you facing Download error Join `
 ### [Telegram channel](https://t.me/jonjeexee)
 
----
-
 ### [Download](https://adlinkfly.in/IO_SPEED_3_0)
 
 ---
