@@ -27,7 +27,7 @@ The official `IO --SPEED` files can only be obtained from [Github release](https
 ```
 ## Terminal 
 ```
-su -c IO
+su -c IOSPEED
 ```
 ## License
 
