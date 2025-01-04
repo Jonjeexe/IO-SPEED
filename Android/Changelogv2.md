@@ -2,7 +2,8 @@
 > Update your Modules for best Performance
 > Changelog will be in Boot Manager
 
-`If you facing Download error Join our [Telegram channel](https://t.me/jonjeexee)`
+`If you facing Download error Join our 
+[Telegram channel](https://t.me/jonjeexee)`
 
 ---
 
