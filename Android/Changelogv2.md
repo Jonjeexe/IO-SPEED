@@ -3,10 +3,10 @@
 > Changelog will be in Boot Manager
 
 `If you facing Download error Join `
-[Telegram channel](https://t.me/jonjeexee)`
+## [Telegram channel](https://t.me/jonjeexee)
 
 ---
 
-[Download](https://adlinkfly.in/IO_SPEED_3_0)
+# [Download](https://adlinkfly.in/IO_SPEED_3_0)
 
 ---
