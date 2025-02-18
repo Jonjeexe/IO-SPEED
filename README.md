@@ -6,7 +6,7 @@
 
 
 ### IO SPEED
-Improve performance and Optimization system enhances responsiveness.
+Powerful Magisk Module that Improve performance and Optimization system enhances responsiveness by enabling some inbuild kernel shedule and many things.
 
 ## Downloads
 
@@ -24,6 +24,8 @@ The official `IO --SPEED` files can only be obtained from [Github release](https
 3 |___ Click Install button
 4 |___ Select Module then install
 5 |___ reboot your device.
+
+- Now Enjoy your Game's 
 ```
 ## Terminal 
 ```
