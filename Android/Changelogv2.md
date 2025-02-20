@@ -1,10 +1,7 @@
-## IO SPEED 3.0 
-> Update your Modules for best Performance
-> Changelog will be in Boot Manager
+## IO SPEED 5.0 
+> Update your Module to AIZEN-X 5.0
 
-`If you facing Download error Join `
-### [Telegram channel](https://t.me/jonjeexee)
-
-### [Download](https://adlinkfly.in/IO_SPEED_3_0)
+`Offical release  `
+### [Telegram channel](https://t.me/Androidstore01)
 
 ---
