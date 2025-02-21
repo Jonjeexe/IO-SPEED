@@ -4,4 +4,5 @@
 `Offical release  `
 ### [Telegram channel](https://t.me/Androidstore01)
 
+### [Download Link](https://adlinkfly.in/AIZEN-X)
 ---
